@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bryan Valdes
 #### I am DevOps Cloud Engineer
-<img align="right" alt="GIF" src="https://i.gifer.com/7IjS.gif" />
+<img src="https://i.gifer.com/7IjS.gif"/>
 
 Years of experince thriving in the Computer Science field<img src="https://img.icons8.com/color/48/000000/computer.png"/>, has lead me to meet as well, grow from talented individuals in this industry via the handling of projects in a agile/scrum environments. I've been blessed with many engaging oppertunities in my career such as<img src="https://img.icons8.com/color/48/000000/shooting-stars.png"/>: 
 - Help desk support<img src="https://img.icons8.com/color/48/000000/man-on-phone.png"/> 
