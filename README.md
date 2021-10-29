@@ -1,7 +1,8 @@
 ## Hi there 👋, my name is Bryan Valdes
 ## I am DevOps Cloud Engineer
 - Making the most of my **code** to **orchestrate containers** and be the best team member I can, because **teamwork** makes the dream work!
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width='200' height='200'/> <img src='https://media.giphy.com/media/WsRay6mTizlOVn3nts/giphy.gif' width='200' height='200'/> <img src='https://media.giphy.com/media/3oz8xWBaQ2147TBbgc/giphy.gif' width='200' height='200'/>
+
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width='200' height='200'/> <img src='https://media.giphy.com/media/WsRay6mTizlOVn3nts/giphy.gif' width='250' height='200'/> <img src='https://media.giphy.com/media/3oz8xWBaQ2147TBbgc/giphy.gif' width='200' height='200'/>
 
 ### About me:
 ***
