@@ -28,4 +28,3 @@
 ***
 [<img src='https://img.icons8.com/color/48/000000/github--v1.png' alt='github' height='40'>](https://github.com/bvaldes-k9)  [<img src='https://img.icons8.com/color/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in//bryan-valdes-655223182//)  [<img src='https://img.icons8.com/color/48/000000/stackoverflow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16744984)  
 
-<img src="https://img.icons8.com/color/48/000000/prometheus-app.png" width='30' height='30'/>Prometheus
